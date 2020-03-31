@@ -1,0 +1,23 @@
+{
+  "name": "contactmanager",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wchandler2020/Contact-Manager.git"
+  },
+  "author": "William Chandler",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wchandler2020/Contact-Manager/issues"
+  },
+  "homepage": "https://github.com/wchandler2020/Contact-Manager#readme",
+  "devDependencies": {
+    "webpack": "^4.42.1",
+    "webpack-cli": "^3.3.11"
+  }
+}
