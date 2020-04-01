@@ -4,6 +4,7 @@ import Header from "./layout/Header";
 import Dashboard from "./contacts/Dashboard";
 import { Provider } from "react-redux";
 import store from "../store";
+
 class App extends Component {
   render() {
     return (
